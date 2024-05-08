@@ -11,7 +11,7 @@ https://developer.ruggedboard.com/
 Sources
 =======
 - meta-rba5d2x
-URI: https://github.com/rugged-board/meta-rba5d2x.git
+URI: https://github.com/Manjunath0444/meta-rba5d2x.git
 Branch: sumo-rba5d2x
 
 
@@ -38,7 +38,7 @@ mkdir sources
 cd sources
 
 2/ Clone meta-rba5d2x layer with the proper branch ready
-git clone https://github.com/rugged-board/meta-rba5d2x.git -b sumo-rba5d2x
+git clone https://github.com/Manjunath0444/meta-rba5d2x.git
 
 3/ Clone yocto/poky git repository with the proper branch ready
 git clone https://github.com/rugged-board/poky.git -b sumo-rba5d2x
@@ -111,9 +111,7 @@ https://www.community.ruggedboard.com/forum/rb-a5d2x
 
 Maintainers:
 ============
-Ganesh K <ganesh.k@phytec.in>
-Mahaboob Nazeer <nazeer.m@phytec.in>
-Prasanth K <prashanth.k@phytec.in>
+Manjunath E L <elmanjunath04@gmail.com>
 
 Known issues
 ============
